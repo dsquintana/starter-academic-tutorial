@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Australian National University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
